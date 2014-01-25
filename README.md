@@ -15,5 +15,5 @@ It has been tested with different data structures like hash table,sets and array
 It implements comparators over Person class for comparing name,name length,age.
 
 #Test cases for ArrayList
-It tests ArrayList with different generics.object-tools
-============
+It tests ArrayList with different generics.object-tools.
+==============
